@@ -2,7 +2,7 @@
   <footer>
     <Logo />
     <a 
-      href="https:/github.com/kkorie"
+      href="https://github.com/kkorie"
       target="_blank">
       (c){{ new Date().getFullYear() }} KKORIE
     </a>
